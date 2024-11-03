@@ -1,0 +1,12 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #dc3545;
+}
