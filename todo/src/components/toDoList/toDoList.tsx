@@ -1,5 +1,4 @@
-import React, { useContext } from "react";
-import { todoContext, useTodo } from "../../context/todoContext";
+import { useTodo } from "../../context/todoContext";
 import ToDo from "../toDo/toDo";
 import "./todoList.css";
 

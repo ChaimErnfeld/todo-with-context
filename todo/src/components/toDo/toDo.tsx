@@ -1,5 +1,5 @@
-import React, { FC, useContext } from "react";
-import { todoContext, useTodo } from "../../context/todoContext";
+import React, { FC } from "react";
+import { useTodo } from "../../context/todoContext";
 import "./todo.css";
 
 interface ToDoProps {

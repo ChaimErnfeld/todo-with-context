@@ -1,4 +1,3 @@
-import React from "react";
 import Form from "./components/forms/form";
 import ToDoList from "./components/toDoList/toDoList";
 import "./App.css";

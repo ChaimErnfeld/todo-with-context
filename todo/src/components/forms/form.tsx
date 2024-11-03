@@ -1,5 +1,5 @@
-import React, { useContext, useState } from "react";
-import { todoContext, useTodo } from "../../context/todoContext";
+import React, { useState } from "react";
+import { useTodo } from "../../context/todoContext";
 import "./form.css";
 
 const Form = () => {
